@@ -1,0 +1,17 @@
+{
+  "name": "London 2025 – Travel App",
+  "short_name": "London 2025",
+  "start_url": "/V11-LondonApp/index.html?source=pwa",
+  "scope": "/V11-LondonApp/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "description": "Tage, Ideen und Karte für den London-Trip.",
+  "lang": "de-DE",
+  "dir": "ltr"
+}

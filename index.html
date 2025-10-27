@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>London 2025 – Travel App</title>
+
+  <!-- Manifest & Icons -->
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+
+  <!-- Preload Banner-Bilder -->
+  <link rel="preload" as="image" href="img/london-morning.jpg">
+  <link rel="preload" as="image" href="img/london-day.jpg">
+  <link rel="preload" as="image" href="img/london-evening.jpg">
+  <link rel="preload" as="image" href="img/london-night.jpg">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css?v=2" />
+
+  <!-- Leaflet (Karte) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header class="app-header" role="banner">
+    <div class="brand"><h1 class="brand-title">London 2025</h1></div>
+    <nav class="top-actions" aria-label="Schnellzugriff">
+      <button id="openMapGlobal" class="btn nav nav-map" title="Tageskarte" aria-label="Tageskarte">🗺️ Tageskarte</button>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section id="trip-info" class="trip-banner" aria-label="Trip Info">
+    <div class="trip-overlay">
+      <div class="trip-content">
+        <h2 id="heroTitle" class="trip-title">🎆 London New Year’s Trip 2025/2026</h2>
+        <p class="trip-hotel">🏨 <a href="https://all.accor.com/hotel/5011/index.de.shtml" target="_blank" rel="noopener">IBIS London City – Shoreditch</a></p>
+        <p class="trip-dates">📅 28. Dez 2025 – 02. Jan 2026</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN -->
+  <main id="app" class="app-main" role="main">
+    <aside class="map-hint" role="note">
+      <p>Standort nutzen für Zonen-Vorschläge und die schnellste Route auf der Karte.</p>
+      <button id="enableLocation" class="linklike" aria-label="Standortfreigabe aktivieren">Standort freigeben</button>
+    </aside>
+
+    <section aria-labelledby="daysTitle">
+      <h2 id="daysTitle" class="section-title">Tage (1–6)</h2>
+      <div id="day-grid" class="grid" role="list"></div>
+    </section>
+
+    <section aria-labelledby="ideasTitle">
+      <h2 id="ideasTitle" class="section-title">Ideen & Alternativen</h2>
+      <div id="ideas" class="ideas" role="region" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <!-- BOTTOM SHEET -->
+  <div id="sheet" class="sheet hidden" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet__header">
+      <h3 id="sheetTitle">Tag</h3>
+      <div class="sheet__actions">
+        <button id="prevDayTop" class="btn nav nav-prev" title="Zurück" aria-label="Zurück">⬅️</button>
+        <button id="openMap" class="btn nav nav-map" title="Tageskarte" aria-label="Tageskarte">🗺️</button>
+        <button id="nextDayTop" class="btn nav nav-next" title="Weiter" aria-label="Weiter">➡️</button>
+        <button id="closeSheet" class="btn nav nav-close" title="Schließen" aria-label="Schließen">✖️</button>
+      </div>
+    </div>
+    <div class="sheet__content">
+      <div id="timeline" class="timeline" aria-live="polite"></div>
+    </div>
+  </div>
+
+  <!-- MODAL: Karte -->
+  <div id="mapModal" class="modal hidden" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Karte">
+    <div class="modal__content">
+      <div id="map" class="map"></div>
+      <button id="closeMap" class="btn ghost modal__close">Schließen</button>
+      <div id="mapHint" class="map-hint">🗺️ Doppelklick auf die Karte schließt das Fenster</div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="app-footer" role="contentinfo">© London 2025</footer>
+
+  <!-- Scripts -->
+  <script src="script.js?v=5"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').catch(() => {});
+      });
+    }
+  </script>
+
+  <noscript>Bitte JavaScript aktivieren, um alle Funktionen der App zu nutzen.</noscript>
+</body>
+</html>

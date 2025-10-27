@@ -1,0 +1,682 @@
+{
+  "reise": {
+    "titel": "London Winter Trip 2025 / 2026 – Ideen & Reiseplan",
+    "hotel": {
+      "name": "IBIS London City – Shoreditch",
+      "url": "https://all.accor.com/hotel/5011/index.de.shtml",
+      "coords": {
+        "lat": 51.5158,
+        "lng": -0.0735
+      }
+    },
+    "zeitraum": {
+      "von": "2025-12-28",
+      "bis": "2026-01-02"
+    }
+  },
+  "tage": [
+    {
+      "tag": 1,
+      "datum": "2025-12-28",
+      "titel": "Anreise & erster Abend in Shoreditch",
+      "punkte": [
+        {
+          "zeit": "18:40",
+          "name": "Ankunft Heathrow T2/3",
+          "url": "https://www.heathrow.com/terminals/terminal-2",
+          "coords": {
+            "lat": 51.4713,
+            "lng": -0.4529
+          }
+        },
+        {
+          "zeit": "18:50–20:10",
+          "name": "Transfer Piccadilly + District Line (Heathrow → Aldgate East)",
+          "url": "https://tfl.gov.uk/",
+          "coords": {
+            "lat": 51.5154,
+            "lng": -0.0739
+          }
+        },
+        {
+          "zeit": "20:50",
+          "name": "Check-in IBIS London City – Shoreditch",
+          "url": "https://all.accor.com/hotel/5011/index.de.shtml",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Abend: Spaziergang Brick Lane & Old Spitalfields Market",
+          "url": "https://oldspitalfieldsmarket.com/",
+          "coords": {
+            "lat": 51.5194,
+            "lng": -0.0757
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Dinner-Idee: Dishoom Shoreditch",
+          "url": "https://www.dishoom.com/shoreditch/",
+          "coords": {
+            "lat": 51.5245,
+            "lng": -0.0746
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Dinner-Idee: Poppies Fish & Chips (Spitalfields)",
+          "url": "https://poppiesfishandchips.co.uk/",
+          "coords": {
+            "lat": 51.52,
+            "lng": -0.0742
+          }
+        }
+      ]
+    },
+    {
+      "tag": 2,
+      "datum": "2025-12-29",
+      "titel": "Battersea Power Station · RB1 Boot · Greenwich · Horizon 22 · Winter Wonderland",
+      "punkte": [
+        {
+          "zeit": "08:30–09:15",
+          "name": "Frühstück (Hotel)",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "09:15–09:45",
+          "name": "Transfer Northern Line (Hotel → Battersea Power Station)",
+          "url": "https://batterseapowerstation.co.uk/",
+          "coords": {
+            "lat": 51.4811,
+            "lng": -0.1447
+          }
+        },
+        {
+          "zeit": "09:50–11:30",
+          "name": "Battersea & Lift 109",
+          "url": "https://lift109.co.uk/",
+          "coords": {
+            "lat": 51.4817,
+            "lng": -0.1439
+          }
+        },
+        {
+          "zeit": "11:35–13:20",
+          "name": "Uber Boat RB1 (Battersea → Greenwich)",
+          "url": "https://uberboatbythamesclippers.com/",
+          "coords": {
+            "lat": 51.4819,
+            "lng": -0.1449
+          }
+        },
+        {
+          "zeit": "13:20–14:00",
+          "name": "Greenwich Market & Cutty Sark",
+          "url": "https://greenwichmarket.london/",
+          "coords": {
+            "lat": 51.4815,
+            "lng": -0.0103
+          }
+        },
+        {
+          "zeit": "14:00–14:25",
+          "name": "DLR (Cutty Sark/Greenwich → Bank)",
+          "url": "https://tfl.gov.uk/dlr",
+          "coords": {
+            "lat": 51.4813,
+            "lng": -0.0104
+          }
+        },
+        {
+          "zeit": "15:00–16:00",
+          "name": "Horizon 22 (22 Bishopsgate)",
+          "url": "https://www.horizon22.co.uk/",
+          "coords": {
+            "lat": 51.5155,
+            "lng": -0.0814
+          }
+        },
+        {
+          "zeit": "16:15–16:45",
+          "name": "Elizabeth + Central Line (City → Hyde Park)",
+          "url": "https://tfl.gov.uk/",
+          "coords": {
+            "lat": 51.5079,
+            "lng": -0.1527
+          }
+        },
+        {
+          "zeit": "18:00–19:00",
+          "name": "Einlass Winter Wonderland (Hyde Park)",
+          "url": "https://hydeparkwinterwonderland.com/",
+          "coords": {
+            "lat": 51.509,
+            "lng": -0.175
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Snacks: Battersea Food Hall",
+          "url": "https://batterseapowerstation.co.uk/food-drink/archlight-cinema/food-court/",
+          "coords": {
+            "lat": 51.4813,
+            "lng": -0.1442
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Snacks: Greenwich Street Food",
+          "url": "https://greenwichmarket.london/food-and-drink",
+          "coords": {
+            "lat": 51.4815,
+            "lng": -0.0103
+          }
+        }
+      ]
+    },
+    {
+      "tag": 3,
+      "datum": "2025-12-30",
+      "titel": "Westfield London · Kew Gardens · Winter Lights · Jack the Ripper",
+      "punkte": [
+        {
+          "zeit": "08:30–09:30",
+          "name": "Frühstück (Hotel)",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "09:30–10:15",
+          "name": "Elizabeth Line (Liverpool Street → White City)",
+          "url": "https://uk.westfield.com/london",
+          "coords": {
+            "lat": 51.5079,
+            "lng": -0.2195
+          }
+        },
+        {
+          "zeit": "10:30–13:00",
+          "name": "Westfield London (Shepherd's Bush)",
+          "url": "https://uk.westfield.com/london",
+          "coords": {
+            "lat": 51.5079,
+            "lng": -0.2195
+          }
+        },
+        {
+          "zeit": "13:00–13:45",
+          "name": "Central + District (Westfield → Kew)",
+          "url": "https://tfl.gov.uk/",
+          "coords": {
+            "lat": 51.478,
+            "lng": -0.2956
+          }
+        },
+        {
+          "zeit": "14:30–16:30",
+          "name": "Kew Gardens – Winter Lights",
+          "url": "https://www.kew.org/",
+          "coords": {
+            "lat": 51.478,
+            "lng": -0.2956
+          }
+        },
+        {
+          "zeit": "16:30–17:20",
+          "name": "Rückfahrt (Kew → Whitechapel)",
+          "url": "https://tfl.gov.uk/",
+          "coords": {
+            "lat": 51.5193,
+            "lng": -0.0611
+          }
+        },
+        {
+          "zeit": "19:45–21:15",
+          "name": "Jack-the-Ripper-Tour (Treff: Aldgate East)",
+          "url": "https://www.jacktheripperwalks.com/",
+          "coords": {
+            "lat": 51.5154,
+            "lng": -0.0739
+          }
+        }
+      ]
+    },
+    {
+      "tag": 4,
+      "datum": "2025-12-31",
+      "titel": "Gottesdienst · Camden Market · Saatchi Gallery · V&A · Dinner · Silvester",
+      "punkte": [
+        {
+          "zeit": "08:30–09:15",
+          "name": "Frühstück (Hotel)",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "09:15–09:45",
+          "name": "Transfer (Hotel → St Paul’s / Westminster Abbey)",
+          "coords": {
+            "lat": 51.5138,
+            "lng": -0.0984
+          }
+        },
+        {
+          "zeit": "10:00–11:30",
+          "name": "Gottesdienst (St Paul’s oder Westminster)",
+          "urls": [
+            "https://www.stpauls.co.uk/",
+            "https://www.westminster-abbey.org/"
+          ],
+          "coords": {
+            "lat": 51.5138,
+            "lng": -0.0984
+          }
+        },
+        {
+          "zeit": "11:30–12:00",
+          "name": "Northern Line (St Paul’s/Westminster → Camden Town)",
+          "coords": {
+            "lat": 51.5393,
+            "lng": -0.1426
+          }
+        },
+        {
+          "zeit": "12:00–13:30",
+          "name": "Camden Market",
+          "url": "https://www.camdenmarket.com/",
+          "coords": {
+            "lat": 51.541,
+            "lng": -0.1466
+          }
+        },
+        {
+          "zeit": "13:30–14:00",
+          "name": "Northern + District (Camden → Sloane Square)",
+          "coords": {
+            "lat": 51.4923,
+            "lng": -0.1565
+          }
+        },
+        {
+          "zeit": "14:00–15:30",
+          "name": "Saatchi Gallery",
+          "url": "https://www.saatchigallery.com/",
+          "coords": {
+            "lat": 51.4929,
+            "lng": -0.1591
+          }
+        },
+        {
+          "zeit": "15:45–16:15",
+          "name": "District (Sloane Square → South Kensington)",
+          "coords": {
+            "lat": 51.4941,
+            "lng": -0.1738
+          }
+        },
+        {
+          "zeit": "16:30–18:00",
+          "name": "V&A Museum",
+          "url": "https://www.vam.ac.uk/",
+          "coords": {
+            "lat": 51.4966,
+            "lng": -0.1722
+          }
+        },
+        {
+          "zeit": "18:30–19:00",
+          "name": "Fußweg: V&A → The Good Earth Knightsbridge",
+          "coords": {
+            "lat": 51.4988,
+            "lng": -0.1664
+          }
+        },
+        {
+          "zeit": "19:00–20:30",
+          "name": "Dinner: The Good Earth Knightsbridge",
+          "url": "https://www.goodearthgroup.co.uk/knightsbridge",
+          "coords": {
+            "lat": 51.4988,
+            "lng": -0.1664
+          }
+        },
+        {
+          "zeit": "21:30–00:30",
+          "name": "Silvesterfeuerwerk an der Themse (Blue Zone)",
+          "url": "https://www.london.gov.uk/events/",
+          "coords": {
+            "lat": 51.5066,
+            "lng": -0.1236
+          }
+        }
+      ]
+    },
+    {
+      "tag": 5,
+      "datum": "2026-01-01",
+      "titel": "New Year’s Parade · Tate Modern · Covent Garden",
+      "punkte": [
+        {
+          "zeit": "09:00–09:45",
+          "name": "Frühstück (Hotel)",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "09:45–10:15",
+          "name": "Transfer (Hotel → Piccadilly Circus)",
+          "coords": {
+            "lat": 51.5101,
+            "lng": -0.1337
+          }
+        },
+        {
+          "zeit": "12:00–14:30",
+          "name": "London New Year’s Day Parade (Zuschauerbereich)",
+          "url": "https://lnydp.com/",
+          "coords": {
+            "lat": 51.5129,
+            "lng": -0.14
+          }
+        },
+        {
+          "zeit": "14:30–15:00",
+          "name": "Fußweg über Millennium Bridge zur Tate",
+          "coords": {
+            "lat": 51.5107,
+            "lng": -0.0986
+          }
+        },
+        {
+          "zeit": "15:15–17:15",
+          "name": "Tate Modern",
+          "url": "https://www.tate.org.uk/visit/tate-modern",
+          "coords": {
+            "lat": 51.5076,
+            "lng": -0.0994
+          }
+        },
+        {
+          "zeit": "17:15–17:45",
+          "name": "Transfer (Tate/Waterloo → Covent Garden)",
+          "coords": {
+            "lat": 51.5115,
+            "lng": -0.124
+          }
+        },
+        {
+          "zeit": "17:45–21:30",
+          "name": "Covent Garden – Bummeln, Musik, Dinner",
+          "url": "https://www.coventgarden.london/",
+          "coords": {
+            "lat": 51.5115,
+            "lng": -0.124
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Dinner-Idee: Dishoom Covent Garden",
+          "url": "https://www.dishoom.com/covent-garden/",
+          "coords": {
+            "lat": 51.5125,
+            "lng": -0.1277
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Dinner-Idee: The Ivy Market Grill",
+          "url": "https://theivymarketgrill.com/",
+          "coords": {
+            "lat": 51.5117,
+            "lng": -0.1237
+          }
+        },
+        {
+          "zeit": "",
+          "name": "Dinner-Idee: Bill’s Covent Garden",
+          "url": "https://bills-website.co.uk/restaurants/covent-garden/",
+          "coords": {
+            "lat": 51.512,
+            "lng": -0.1235
+          }
+        }
+      ]
+    },
+    {
+      "tag": 6,
+      "datum": "2026-01-02",
+      "titel": "Tower of London & Rückreise",
+      "punkte": [
+        {
+          "zeit": "08:30–09:15",
+          "name": "Frühstück (Hotel)",
+          "coords": {
+            "lat": 51.5158,
+            "lng": -0.0735
+          }
+        },
+        {
+          "zeit": "09:30–11:00",
+          "name": "Tower of London",
+          "url": "https://www.hrp.org.uk/tower-of-london/",
+          "coords": {
+            "lat": 51.5081,
+            "lng": -0.0759
+          }
+        },
+        {
+          "zeit": "11:00–11:30",
+          "name": "St Katharine Docks (Kaffee & kurzer Bummel)",
+          "url": "https://www.skdocks.co.uk/",
+          "coords": {
+            "lat": 51.5075,
+            "lng": -0.0699
+          }
+        },
+        {
+          "zeit": "11:45–12:45",
+          "name": "Elizabeth Line (Liverpool Street → Heathrow T3)",
+          "coords": {
+            "lat": 51.5174,
+            "lng": -0.0823
+          }
+        },
+        {
+          "zeit": "13:00",
+          "name": "Check-in & Security Heathrow T3",
+          "coords": {
+            "lat": 51.4717,
+            "lng": -0.4534
+          }
+        },
+        {
+          "zeit": "15:50",
+          "name": "Abflug",
+          "coords": {
+            "lat": 51.4717,
+            "lng": -0.4534
+          }
+        }
+      ]
+    }
+  ],
+  "ideen": {
+    "abends": [
+      {
+        "name": "Little Venice",
+        "coords": {
+          "lat": 51.5236,
+          "lng": -0.1828
+        }
+      },
+      {
+        "name": "Camden Lock",
+        "coords": {
+          "lat": 51.5413,
+          "lng": -0.1469
+        }
+      },
+      {
+        "name": "Embankment",
+        "coords": {
+          "lat": 51.507,
+          "lng": -0.1225
+        }
+      },
+      {
+        "name": "Waterloo Bridge",
+        "coords": {
+          "lat": 51.5076,
+          "lng": -0.1179
+        }
+      },
+      {
+        "name": "Covent Garden",
+        "coords": {
+          "lat": 51.5115,
+          "lng": -0.124
+        }
+      },
+      {
+        "name": "Primrose Hill Viewpoint",
+        "coords": {
+          "lat": 51.5396,
+          "lng": -0.1607
+        }
+      },
+      {
+        "name": "Greenwich Riverside Walk",
+        "coords": {
+          "lat": 51.4817,
+          "lng": -0.01
+        }
+      },
+      {
+        "name": "St Katharine Docks",
+        "coords": {
+          "lat": 51.5075,
+          "lng": -0.0699
+        }
+      },
+      {
+        "name": "Tower Bridge",
+        "coords": {
+          "lat": 51.5055,
+          "lng": -0.0754
+        }
+      }
+    ],
+    "design_orte": [
+      {
+        "name": "Design Museum Kensington",
+        "coords": {
+          "lat": 51.4995,
+          "lng": -0.1995
+        }
+      },
+      {
+        "name": "Coal Drops Yard (King’s Cross)",
+        "coords": {
+          "lat": 51.5352,
+          "lng": -0.1247
+        }
+      },
+      {
+        "name": "Museum of the Home (Shoreditch)",
+        "coords": {
+          "lat": 51.5297,
+          "lng": -0.0771
+        }
+      }
+    ],
+    "kulinarisch": [
+      {
+        "name": "Brat Shoreditch",
+        "coords": {
+          "lat": 51.5243,
+          "lng": -0.0788
+        }
+      },
+      {
+        "name": "Patara Knightsbridge",
+        "coords": {
+          "lat": 51.4988,
+          "lng": -0.1647
+        }
+      },
+      {
+        "name": "Sketch Mayfair",
+        "coords": {
+          "lat": 51.512,
+          "lng": -0.1416
+        }
+      },
+      {
+        "name": "Dalloway Terrace",
+        "coords": {
+          "lat": 51.5195,
+          "lng": -0.1321
+        }
+      },
+      {
+        "name": "Dishoom Shoreditch",
+        "coords": {
+          "lat": 51.5245,
+          "lng": -0.0746
+        }
+      }
+    ],
+    "kultur_tipps": [
+      {
+        "name": "Sir John Soane’s Museum",
+        "coords": {
+          "lat": 51.5174,
+          "lng": -0.116
+        }
+      },
+      {
+        "name": "The Wallace Collection",
+        "coords": {
+          "lat": 51.5163,
+          "lng": -0.1536
+        }
+      }
+    ],
+    "fotospots": [
+      {
+        "name": "Sky Garden",
+        "coords": {
+          "lat": 51.5105,
+          "lng": -0.0838
+        }
+      },
+      {
+        "name": "St Dunstan in the East",
+        "coords": {
+          "lat": 51.5096,
+          "lng": -0.0814
+        }
+      },
+      {
+        "name": "Hampstead Heath Viewpoint (Parliament Hill)",
+        "coords": {
+          "lat": 51.5606,
+          "lng": -0.157
+        }
+      }
+    ]
+  }
+}
